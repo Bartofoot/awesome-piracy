@@ -865,7 +865,7 @@ premium services
 - [/r/WWEstreams](https://www.reddit.com/r/WWEstreams/) Reddit - WWE streams
 - [/r/rugbystreams](https://www.reddit.com/r/rugbystreams/) Reddit - rugby streams
 - [/r/mmafights](https://www.reddit.com/r/mmafights/) Reddit - MMA streams
-- [LiveTV](https://livesx.eu/) Wide variety of sports, results/live scores, video archive and betting
+- [LiveTV](https://livetv.sx) Wide variety of sports, results/live scores, video archive and betting
 - [Cricfree](https://crickfree.org/) Offers popular sports streams
 - [VIPBox](https://www.vipbox.live/) Many sports streams, TV, friendly UI
 - [MamaHD](https://www.mamahd.org/) 24/7 feeds, sports streams, clean UI
